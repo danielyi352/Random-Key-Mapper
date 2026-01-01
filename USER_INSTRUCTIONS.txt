@@ -1,0 +1,66 @@
+========================================
+KEY REMAPPER - USER INSTRUCTIONS
+========================================
+
+WHAT YOU RECEIVED:
+------------------
+A folder with the Key Remapper program files.
+
+HOW TO USE IT:
+--------------
+
+STEP 1: Run the Program
+   - Double-click "RUN.bat" in the folder
+   - The first time: It will automatically build the program (takes 1-2 minutes)
+   - After that: It will launch instantly
+   - If Windows shows a warning, click "More info" then "Run anyway"
+     (This is normal for programs that aren't digitally signed)
+   
+   NOTE: You need Python installed. If you don't have it, the program will tell you.
+
+STEP 2: Set Up Your First Key Remapping
+   - Click the "+ Add Remapping" button at the top
+   - In the new row that appears:
+     * Click "Set Key" and press the key you want to remap (e.g., press "A")
+     * Click "Add" and press keys you want as replacements (e.g., press "W", then "E")
+       (You can add multiple target keys - the program will randomly pick one)
+
+STEP 3: Add More Remappings (Optional)
+   - Click "+ Add Remapping" again to add another key remapping
+   - Repeat Step 2 for each additional key you want to remap
+
+STEP 4: Start the Remapping
+   - Click "Start Remapping" button
+   - The status will change to "Active"
+   - Now when you press your source keys, they will randomly output the target keys!
+
+STEP 5: Stop When Done
+   - Click "Stop Remapping" when you want to disable it
+
+IMPORTANT NOTES:
+----------------
+- On Windows, you may need to RIGHT-CLICK the .exe file and select 
+  "Run as administrator" for the key remapping to work properly
+  
+- The program must stay open while remapping is active
+  
+- To remove a remapping, click "Remove" in that row
+
+EXAMPLE:
+--------
+If you want "A" to randomly type "W" or "E":
+1. Click "+ Add Remapping"
+2. Click "Set Key" and press "A"
+3. Click "Add" and press "W"
+4. Click "Add" and press "E"
+5. Click "Start Remapping"
+6. Now when you press "A", it will randomly type "W" or "E" instead!
+
+TROUBLESHOOTING:
+---------------
+- Keys not remapping? Try running as Administrator (right-click → Run as administrator)
+- Program won't start? Your antivirus might be blocking it (it's safe, just a false positive)
+- Need help? Contact the person who sent you this file
+
+========================================
+
